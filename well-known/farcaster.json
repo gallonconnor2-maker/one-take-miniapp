@@ -1,0 +1,14 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "One Take",
+    "iconUrl": "https://YOUR-DOMAIN.com/icon.png",
+    "homeUrl": "https://YOUR-DOMAIN.com",
+    "imageUrl": "https://YOUR-DOMAIN.com/preview.png",
+    "buttonTitle": "Vote today",
+    "splashImageUrl": "https://YOUR-DOMAIN.com/icon.png",
+    "splashBackgroundColor": "#14162B",
+    "description": "A daily two-option poll. Vote once a day, build a streak, share your take.",
+    "primaryCategory": "social"
+  }
+}
